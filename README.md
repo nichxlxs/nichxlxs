@@ -18,15 +18,14 @@
 ### - Learning :
 - ✨ Computer Science
 - ✨ Data Science
-- ✨ Node.JS
-- ✨ jQuery
-- ✨ Java, JS
+- ✨ Node.JS, JS
+- ✨ TypeScript
+- ✨ Java
 
 ### - Hobbies : 
 - ✨ Gaming
 - ✨ Watching Anime
 - ✨ Reading Manga
-- ✨ Learning Japanese
 
 </br>
 </br>
