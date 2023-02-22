@@ -11,21 +11,16 @@
 
 # About ME 💬:
 
-### - I'm a 17 year old Novice Developer from Australia.
+### - I'm a 17 year old Computer Science Student from Australia.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/nichxlxs/nichxlxs/blob/master/assets/1936.gif">
 
 ### - Learning :
 - ✨ Computer Science
-- ✨ Data Science
+- ✨ Cyber Security
 - ✨ Node.JS, JS
 - ✨ TypeScript
 - ✨ Java
-
-### - Hobbies : 
-- ✨ Gaming
-- ✨ Watching Anime
-- ✨ Reading Manga
 
 </br>
 </br>
