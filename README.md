@@ -1,13 +1,9 @@
-# - About Me :
+# - Interests :
 - ✨ Computer Science
 - ✨ Cyber Security
 - ✨ Node.JS, JS
 - ✨ TypeScript
 - ✨ Java
-
-</br>
-</br>
-
 
 # Contact Me:
 
@@ -22,13 +18,6 @@ If you want to reach out to me about anything, my discord is @nicholxs#0001 and 
  </p>
  
 
-</br>
-</br>
-</br>
-</br>
-<br>
-<br>
-</br>
 </br>
 </br>
 
