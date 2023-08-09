@@ -1,21 +1,4 @@
-# Greetings 👋
-
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/nichxlxs/nichxlxs/blob/master/assets/208593.gif">
-</div>
-
-</br>
-</br>
-</br>
-
-
-# About ME 💬:
-
-### - I'm a 17 year old Computer Science Student from Australia.
-
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/nichxlxs/nichxlxs/blob/master/assets/1936.gif">
-
-### - Learning :
+# - About Me :
 - ✨ Computer Science
 - ✨ Cyber Security
 - ✨ Node.JS, JS
@@ -27,13 +10,6 @@
 
 
 # Contact Me:
-
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/nichxlxs/nichxlxs/blob/master/assets/93195.gif">
-
 
 If you want to reach out to me about anything, my discord is @nicholxs#0001 and here are some other socials:
 
