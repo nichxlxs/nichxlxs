@@ -35,6 +35,14 @@ I am also building a **browser extension** to detect both MITM proxy phishing pa
 
 ---
 
+## Independent Security Research Projects
+
+- [`nichxlxs/Vac-Bypass`](https://github.com/nichxlxs/Vac-Bypass): analysis, reverse engineering, and bypass research around VAC.
+- [`nichxlxs/cve-research`](https://github.com/nichxlxs/cve-research): CVE research, vulnerability analysis, and controlled recreation workflows.
+- [`nichxlxs/security-research`](https://github.com/nichxlxs/security-research): broader security research across exploitation, tooling, and defensive insights.
+
+---
+
 ## Core Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,19 +73,11 @@ I am also building a **browser extension** to detect both MITM proxy phishing pa
 
 ---
 
-## Independent Security Research Projects
-
-- [`nichxlxs/Vac-Bypass`](https://github.com/nichxlxs/Vac-Bypass): analysis, reverse engineering, and bypass research around VAC.
-- [`nichxlxs/cve-research`](https://github.com/nichxlxs/cve-research): CVE research, vulnerability analysis, and controlled recreation workflows.
-- [`nichxlxs/security-research`](https://github.com/nichxlxs/security-research): broader security research across exploitation, tooling, and defensive insights.
-
----
-
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://raw.githubusercontent.com/nichxlxs/nichxlxs/main/output/stats.svg" alt="GitHub Stats"/>
-  <img height="180em" src="https://raw.githubusercontent.com/nichxlxs/nichxlxs/main/output/languages.svg" alt="Top Languages"/>
+  <img height="180em" src="https://raw.githubusercontent.com/nichxlxs/nichxlxs/master/output/stats.svg" alt="GitHub Stats"/>
+  <img height="180em" src="https://raw.githubusercontent.com/nichxlxs/nichxlxs/master/output/languages.svg" alt="Top Languages"/>
 </div>
 
 <div align="center">
