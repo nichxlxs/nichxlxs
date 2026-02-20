@@ -1,0 +1,39 @@
+name: Generate Readme Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-readme-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=nichxlxs&show_icons=true&include_all_commits=true&count_private=true&theme=radical
+          path: output/stats.svg
+          token: ${{ secrets.GRS_TOKEN || github.token }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=nichxlxs&layout=compact&langs_count=8&theme=radical
+          path: output/languages.svg
+          token: ${{ secrets.GRS_TOKEN || github.token }}
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/stats.svg output/languages.svg
+          git commit -m "chore(readme): update generated stats cards" || exit 0
+          git push

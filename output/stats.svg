@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+  <rect width="495" height="195" fill="#141321" rx="8"/>
+  <text x="247.5" y="92" text-anchor="middle" fill="#f8f8f2" font-size="18" font-family="Segoe UI, Arial, sans-serif">GitHub Stats Pending</text>
+  <text x="247.5" y="122" text-anchor="middle" fill="#8be9fd" font-size="13" font-family="Segoe UI, Arial, sans-serif">Run the "Generate Readme Stats" workflow</text>
+</svg>
